@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  background-color: #122852;
+  color: white;
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+}
+
+.intro H1 {
+  font-size: 40px;
+}
+
+.core {
+  display: flex;
+  flex-direction: row;
+}
+
+.info {
+  background-color: #4F7C8C;
+  width: 20%;
+  padding: 10px;
+  display: flex;
+}
+
+.map {
+  display: flex;
+  width: 100%;
+}
