@@ -1,6 +1,6 @@
 body {
   font-size: 25px;
-  background-color: #237a6e
+  background-color: #d7e0df
   font-family: sans-serif;
   margin-right: 200px;
   margin-left: 200px;
@@ -8,10 +8,11 @@ body {
 }
 
 h1 {
-  font-size: 60px;
-  background-color: #237a6e
+  font-size: 70px;
+  font: impact;
+  background-color: #d7e0df
   margin-right: 200px;
-  margin-left: 150px;
+  margin-left: 100px;
   padding: 10;
 }
 
