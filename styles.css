@@ -1,34 +1,24 @@
 body {
+  font-size: 25px;
+  background-color: #237a6e
   font-family: sans-serif;
-  margin: 0;
-  padding: 0;
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 10;
 }
 
-.intro {
-  background-color: #122852;
-  color: white;
-  width: 100%;
-  height: 150px;
-  padding: 10px;
-}
-
-.intro H1 {
-  font-size: 40px;
-}
-
-.core {
-  display: flex;
-  flex-direction: row;
-}
-
-.info {
-  background-color: #4F7C8C;
-  width: 20%;
-  padding: 10px;
-  display: flex;
+h1 {
+  font-size: 60px;
+  background-color: #237a6e
+  margin-right: 200px;
+  margin-left: 150px;
+  padding: 10;
 }
 
 .map {
   display: flex;
   width: 100%;
+  height: 200%;
+  margin-left: auto;
+  margin-right: auto;
 }
